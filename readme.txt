@@ -36,3 +36,95 @@
 - Borba se održava prema dogovorenim pravilima i rasporedu, uz potporu medicinskih timova i službenih sudaca. 
 - Nakon borbe borci prolaze završne medicinske preglede, a dodjeljuju se i bonusi za najbolje nastupe ili spektakularne trenutke. 
 - Konačno, rezultati borbe analiziraju se kako bi se utvrdio njihov utjecaj na rang liste i buduće mečeve, a matchmaker kreće u planiranje idućih koraka za oba borca, uključujući potencijalne revanše ili nove izazove.
+
+
+
+
+
+MALO DETALJNIJI DRAFT PO LANEOVIMA:
+Evo natuknica za aktivnosti u svakom **laneu**, temeljenih na detaljnom opisu i definiranih laneova:  
+
+---
+
+### **UFC Organizacija**
+
+#### **Matchmaker**
+- Analizira stanje u kategorijama (rang liste, prvaci, izazivači, popularnost boraca).  
+- Određuje potrebu za borbom (naslov, povratak, promocija mladih talenata).  
+- Istražuje potencijalne protivnike na temelju statusa, stila i povijesti borbi.  
+- Provodi preliminarne pregovore s menadžerima boraca.  
+- Pronalazi zamjene ako su borci ozlijeđeni ili nedostupni.  
+- Vraća se na početak procesa u slučaju odbijanja ponude.  
+
+#### **Upravni Odbor**
+- Pregledava i odobrava ključne borbe koje imaju strateški značaj za UFC.  
+- Odlučuje o borbama koje uključuju velike promotivne kampanje.  
+
+#### **Logistika**
+- Organizira lokaciju događaja, osigurava opremu i logističke detalje.  
+- Koordinira suradnju s atletskim komisijama.  
+
+#### **Financijski Odjel**
+- Pregovara financijske aspekte ugovora (plaće, bonusi, PPV prihodi).  
+- Provjerava budžet za promociju i operativne troškove događaja.  
+
+#### **Pravni Tim**
+- Provjerava postojeće ugovore boraca.  
+- Rješava pravne sporove ili suspenzije boraca.  
+
+---
+
+### **Menadžeri Boraca**
+
+#### **Menadžer A i Menadžer B**
+- Pregovaraju uvjete borbe (financijski uvjeti, datum, lokacija).  
+- Osiguravaju dostupnost borca za predloženi termin.  
+- Provjeravaju interese borca i pružaju povratne informacije matchmakeru.  
+- Predlažu izmjene u uvjetima prema potrebama svojih boraca.  
+
+#### **Agent za PR**
+- Koordinira promotivne aktivnosti borca (intervjui, press konferencije).  
+- Priprema borca za javne nastupe i promociju na društvenim mrežama.  
+
+---
+
+### **Borci**
+
+#### **Borac A i Borac B**
+- Odlučuju o prihvaćanju borbe na temelju ponuđenih uvjeta.  
+- Podvrgavaju se obaveznim medicinskim pregledima.  
+- Sudjeluju u promotivnim aktivnostima (intervjui, sučeljavanja).  
+- Pripremaju se za borbu u svojim kampovima.  
+- Sudjeluju u vaganju i zadovoljavaju težinske kriterije.  
+- Prolaze završne medicinske preglede nakon borbe.  
+
+---
+
+### **Atletske Komisije**
+
+#### **Medicinski Pregledi**
+- Provode obavezne preglede kako bi se osigurala sigurnost boraca.  
+- Odbijaju borce koji ne ispunjavaju medicinske uvjete za nastup.  
+
+#### **Licenciranje**
+- Provjerava i izdaje licence borcima za natjecanje.  
+- Rješava eventualne suspenzije ili pravne probleme.  
+
+---
+
+### **Marketing i Mediji**
+
+#### **Promotivni Tim UFC-a**
+- Organizira press konferencije i promotivne događaje.  
+- Kreira reklame i sadržaje za društvene mreže.  
+- Osigurava maksimalnu vidljivost borbe putem medijskih kampanja.  
+
+#### **Borci u PR Kampanji**
+- Sudjeluju u intervjuima i promotivnim videozapisima.  
+- Sudjeluju u sučeljavanjima kako bi povećali napetost.  
+
+#### **Medijski Partneri**
+- Emitiraju borbu i pripremaju promotivne sadržaje.  
+- Organiziraju live streamove i distribuciju PPV-a.  
+
+---
