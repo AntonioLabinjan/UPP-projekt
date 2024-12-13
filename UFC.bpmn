@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:modeler="http://camunda.org/schema/modeler/1.0" id="Definitions_1s373gt" targetNamespace="http://bpmn.io/schema/bpmn" exporter="Camunda Modeler" exporterVersion="5.28.0" modeler:executionPlatform="Camunda Cloud" modeler:executionPlatformVersion="8.6.0">
+  <bpmn:collaboration id="Collaboration_1sf1tn4">
+    <bpmn:participant id="Participant_1fkbxkl" name="UFC organizacija" processRef="Process_1mubqvp" />
+    <bpmn:participant id="Participant_0jajgym" name="Menadžeri boraca" processRef="Process_0unh1lt" />
+    <bpmn:participant id="Participant_021cmle" name="Borci" processRef="Process_10e5ca9" />
+    <bpmn:participant id="Participant_1x27zlm" name="Atletska komisija" processRef="Process_1cfjq5b" />
+    <bpmn:participant id="Participant_1kj8yqs" name="Marketing, mediji i sponzori" processRef="Process_0dbqde9" />
+  </bpmn:collaboration>
+  <bpmn:process id="Process_1mubqvp" isExecutable="true">
+    <bpmn:laneSet id="LaneSet_19rwpdt">
+      <bpmn:lane id="Lane_1a82fyw" name="Matchmaker" />
+      <bpmn:lane id="Lane_1n7n70z" name="Upravni odbor" />
+      <bpmn:lane id="Lane_1iy1r7v" name="Financijski odjel" />
+      <bpmn:lane id="Lane_0hogv3t" name="Logistika" />
+      <bpmn:lane id="Lane_0zokpzk" name="Pravni tim" />
+    </bpmn:laneSet>
+  </bpmn:process>
+  <bpmn:process id="Process_0unh1lt" isExecutable="false">
+    <bpmn:laneSet id="LaneSet_0r026wp">
+      <bpmn:lane id="Lane_0414uv1" name="Menadžer 1" />
+      <bpmn:lane id="Lane_01o7qcq" name="PR agent" />
+      <bpmn:lane id="Lane_042wfx3" name="Manedžer 2" />
+    </bpmn:laneSet>
+  </bpmn:process>
+  <bpmn:process id="Process_10e5ca9" isExecutable="false">
+    <bpmn:laneSet id="LaneSet_0vx88xv">
+      <bpmn:lane id="Lane_0wsqr1r" name="Borac 2" />
+      <bpmn:lane id="Lane_14c0sjq" name="Borac 1" />
+    </bpmn:laneSet>
+  </bpmn:process>
+  <bpmn:process id="Process_1cfjq5b" isExecutable="false">
+    <bpmn:laneSet id="LaneSet_02q2bir">
+      <bpmn:lane id="Lane_0a5wyai" name="Medicinski odjel" />
+      <bpmn:lane id="Lane_1ydrnfx" name="Odjel za licenciranje" />
+    </bpmn:laneSet>
+  </bpmn:process>
+  <bpmn:process id="Process_0dbqde9" isExecutable="false">
+    <bpmn:laneSet id="LaneSet_0a6cb9r">
+      <bpmn:lane id="Lane_1toiknv" name="Promotivni tim" />
+      <bpmn:lane id="Lane_141f9iv" name="Medijski partneri" />
+    </bpmn:laneSet>
+  </bpmn:process>
+  <bpmndi:BPMNDiagram id="BPMNDiagram_1">
+    <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="Collaboration_1sf1tn4">
+      <bpmndi:BPMNShape id="Participant_1fkbxkl_di" bpmnElement="Participant_1fkbxkl" isHorizontal="true">
+        <dc:Bounds x="1159" y="80" width="600" height="730" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_1a82fyw_di" bpmnElement="Lane_1a82fyw" isHorizontal="true">
+        <dc:Bounds x="1189" y="440" width="570" height="190" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_1n7n70z_di" bpmnElement="Lane_1n7n70z" isHorizontal="true">
+        <dc:Bounds x="1189" y="320" width="570" height="120" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_1iy1r7v_di" bpmnElement="Lane_1iy1r7v" isHorizontal="true">
+        <dc:Bounds x="1189" y="200" width="570" height="120" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_0hogv3t_di" bpmnElement="Lane_0hogv3t" isHorizontal="true">
+        <dc:Bounds x="1189" y="630" width="570" height="180" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_0zokpzk_di" bpmnElement="Lane_0zokpzk" isHorizontal="true">
+        <dc:Bounds x="1189" y="80" width="570" height="120" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Participant_0jajgym_di" bpmnElement="Participant_0jajgym" isHorizontal="true">
+        <dc:Bounds x="160" y="80" width="600" height="370" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_0414uv1_di" bpmnElement="Lane_0414uv1" isHorizontal="true">
+        <dc:Bounds x="190" y="80" width="570" height="125" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_01o7qcq_di" bpmnElement="Lane_01o7qcq" isHorizontal="true">
+        <dc:Bounds x="190" y="205" width="570" height="125" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_042wfx3_di" bpmnElement="Lane_042wfx3" isHorizontal="true">
+        <dc:Bounds x="190" y="330" width="570" height="120" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Participant_021cmle_di" bpmnElement="Participant_021cmle" isHorizontal="true">
+        <dc:Bounds x="200" y="620" width="600" height="250" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_0wsqr1r_di" bpmnElement="Lane_0wsqr1r" isHorizontal="true">
+        <dc:Bounds x="230" y="620" width="570" height="125" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_14c0sjq_di" bpmnElement="Lane_14c0sjq" isHorizontal="true">
+        <dc:Bounds x="230" y="745" width="570" height="125" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Participant_1x27zlm_di" bpmnElement="Participant_1x27zlm" isHorizontal="true">
+        <dc:Bounds x="200" y="1182" width="600" height="250" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_0a5wyai_di" bpmnElement="Lane_0a5wyai" isHorizontal="true">
+        <dc:Bounds x="230" y="1182" width="570" height="125" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_1ydrnfx_di" bpmnElement="Lane_1ydrnfx" isHorizontal="true">
+        <dc:Bounds x="230" y="1307" width="570" height="125" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Participant_1kj8yqs_di" bpmnElement="Participant_1kj8yqs" isHorizontal="true">
+        <dc:Bounds x="1185" y="1142" width="600" height="250" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_1toiknv_di" bpmnElement="Lane_1toiknv" isHorizontal="true">
+        <dc:Bounds x="1215" y="1142" width="570" height="125" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Lane_141f9iv_di" bpmnElement="Lane_141f9iv" isHorizontal="true">
+        <dc:Bounds x="1215" y="1267" width="570" height="125" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>
